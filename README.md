@@ -1,7 +1,5 @@
 
 ![BannerGIF](banner.gif)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasvedpathak&theme=github_dark&hide_border=true&hide=css,html)](https://github.com/shreyasvedpathak/github-readme-stats)
 [![Shreyas's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/shreyasvedpathak/github-readme-stats)
 
@@ -78,6 +76,3 @@ src="https://img.shields.io/badge/Kaggle%20-%230077B5.svg?&style=for-the-badge&l
 <img alt="Instagram"
 src="https://img.shields.io/badge/fakeperalta__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-
-
-
