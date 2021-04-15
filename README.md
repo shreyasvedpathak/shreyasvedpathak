@@ -1,7 +1,14 @@
 
 ![BannerGIF](banner.gif)
+
+<div style="text-align: center">
+
 [![Shreyas's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/shreyasvedpathak/github-readme-stats)
+
+</div>
+
+
 
 ## My Tech Stack
 
