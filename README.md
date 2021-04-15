@@ -1,12 +1,8 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-<style>
-.fixed{
-    width: 300px;
-}
-</style>
-![BannerGIF](banner.gif)
+<link href="css/md_styles.css" rel="stylesheet">
 
+![BannerGIF](banner.gif)
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasvedpathak&theme=github_dark&hide_border=true&hide=css,html)](https://github.com/shreyasvedpathak/github-readme-stats)
 [![Shreyas's GitHub
@@ -16,7 +12,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
 
 <div class="container">
     <div class="row">
-        <div class="col-sm fixed">
+        <div class="col fixed">
             <p>
                 Languages
             </p>
@@ -45,7 +41,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
                     src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
             </p>
         </div>
-        <div class="col-sm fixed">
+        <div class="col fixed">
             <p>
                 Libraries/Frameworks
             </p>
@@ -70,7 +66,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
                     src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
             </p>
         </div>
-        <div class="col-sm fixed">
+        <div class="col fixed">
             <p>
                 Backend/Databases
             </p>
@@ -95,7 +91,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
                     src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
             </p>
         </div>
-        <div class="col-sm fixed">
+        <div class="col fixed">
             <p>IDEs</p>
             <p>
                 <img alt="PyCharm"
