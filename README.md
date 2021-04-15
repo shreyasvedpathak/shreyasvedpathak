@@ -33,7 +33,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
 </td>
 <td valign="top" width="33%">
 <div align="center">
-<h3>Libraries/Frameworks</h2>
+<h3>Libraries</h2>
 
 <img style="margin: 10px" alt="Keras"
     src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white" />
@@ -75,11 +75,7 @@ src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge
 <img alt="Gmail"
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/shreyasvedpathak/">
+<a href="https://www.kaggle.com/shreyasvedpathak">
 <img alt="Kaggle"
 src="https://img.shields.io/badge/Kaggle%20-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/shreyasvedpathak">
-<img alt="Instagram"
-src="https://img.shields.io/badge/fakeperalta__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
