@@ -1,16 +1,10 @@
-
-![BannerGIF](video_1_.gif)
-
-<div style="text-align: center">
-
-[![Shreyas's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/shreyasvedpathak/github-readme-stats)
-
-</div>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=50">
+</p>
 
 ## My Tech Stack
+
+
 
 <table>
 <tr>
@@ -45,6 +39,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
     src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img style="margin: 10px" alt="NumPy"
     src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
 </div>
 </td>
 <td valign="top" width="33%">
@@ -65,8 +60,8 @@ stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&them
 </tr>
 </table>
 
-
 ## Reach me here:
+
 <a href="https://www.linkedin.com/in/shreyasvedpathak/">
 <img alt="LinkedIn"
 src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
