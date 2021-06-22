@@ -1,5 +1,5 @@
 
-![BannerGIF](banner.gif)
+![BannerGIF](video_1_.gif)
 
 <div style="text-align: center">
 
