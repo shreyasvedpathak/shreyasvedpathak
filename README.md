@@ -2,7 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=50">
 </p>
 
+<<<<<<< HEAD
 ## My Tech Stack
+=======
+![BannerGIF](video_1_.gif)
+
+<div style="text-align: center">
+
+[![Shreyas's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=shreyasvedpathak&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/shreyasvedpathak/github-readme-stats)
+
+</div>
+
+>>>>>>> 8b93cda0fd3c5474135e4ba63cf2a59668a81bd6
 
 
 
